@@ -6,6 +6,7 @@
       <th scope="col" (click)="loadAlbums('artist')">Artist</th>
       <th scope="col" (click)="loadAlbums('releaseDate')">Release Date</th>
       <th scope="col" (click)="loadAlbums('nbTracks')">Track numbers</th>
+      <th scope="col"></th>
     </tr>
   </thead>
   <tbody>
@@ -15,6 +16,11 @@
       <td>{{ album.artist }}</td>
       <td>{{ album.releaseDate | date: 'mediumDate' }}</td>
       <td>{{ album.nbTracks }}</td>
+      <td>
+        <a class="btn btn-info" [routerLink]="['/albums/' + album.id]">
+          Go to Album
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>

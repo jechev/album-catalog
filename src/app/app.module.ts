@@ -10,9 +10,18 @@ import { RouterModule } from '@angular/router';
 import { appRoutes } from 'src/router';
 import { AlbumListComponent } from './components/albums/album-list/album-list.component';
 import { PaginationModule } from 'ngx-bootstrap';
+import { AlbumDetailComponent } from './components/albums/album-detail/album-detail.component';
+import { AddReviewComponent } from './components/reviews/add-review/add-review.component';
+import { ReviewService } from './_services/review.service';
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent, AlbumListComponent],
+  declarations: [
+    AppComponent,
+    HomeComponent,
+    AlbumListComponent,
+    AlbumDetailComponent,
+    AddReviewComponent
+  ],
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -20,7 +29,7 @@ import { PaginationModule } from 'ngx-bootstrap';
     RouterModule.forRoot(appRoutes),
     PaginationModule.forRoot()
   ],
-  providers: [AlbumService],
+  providers: [AlbumService, ReviewService],
   bootstrap: [AppComponent]
 })
 export class AppModule {}

@@ -1,0 +1,60 @@
+<div class="card my-4">
+  <h5 class="card-header">Add review:</h5>
+  <div class="card-body">
+    <form #addReviewForm="ngForm" (ngSubmit)="addReview(addReviewForm)">
+      <div class="form-group">
+        <label for="usr">Nickname:</label>
+        <input
+          type="text"
+          class="form-control"
+          id="usr"
+          name="nickname"
+          [(ngModel)]="newReview.nickname"
+          required
+        />
+      </div>
+      <div class="form-check">
+        <label class="form-check-label">
+          <input
+            id="online"
+            type="radio"
+            class="form-check-input"
+            name="type"
+            value="online"
+            required
+            ngModel
+          />Online
+        </label>
+      </div>
+      <div class="form-check">
+        <label class="form-check-label">
+          <input
+            id="local"
+            type="radio"
+            class="form-check-input"
+            name="type"
+            required
+            value="local"
+            ngModel
+          />Local
+        </label>
+      </div>
+      <div class="form-group">
+        <textarea
+          class="form-control"
+          rows="3"
+          name="text"
+          [(ngModel)]="newReview.text"
+          required
+        ></textarea>
+      </div>
+      <button
+        type="submit"
+        class="btn btn-primary"
+        [disabled]="!addReviewForm.valid"
+      >
+        Add review
+      </button>
+    </form>
+  </div>
+</div>
