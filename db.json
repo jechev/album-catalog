@@ -1,0 +1,591 @@
+{
+  "albums": [
+    {
+      "platform": "spotify",
+      "id": 1,
+      "title": "Creed II: The Album",
+      "artist": "Mike WiLL Made-It",
+      "artistLink": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk",
+      "upc": "00602577321153",
+      "releaseDate": 1542326400,
+      "nbTracks": 15,
+      "albumLink": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP",
+      "picture": "https://i.scdn.co/image/e5e192879a7f70938400d6878c4999b641747a33"
+    },
+    {
+      "platform": "spotify",
+      "id": 2,
+      "title": "World of Warcraft: Wrath of the Lich King Original Soundtrack",
+      "artist": "Various Artists",
+      "artistLink": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+      "upc": "020626607117",
+      "releaseDate": "1226534400",
+      "nbTracks": "21",
+      "albumLink": "https://open.spotify.com/album/36Dk0lgHLB8nfpaC8EvGiy",
+      "picture": "https://i.scdn.co/image/69281877c5780c7d762e373ad8550a73594ecc13"
+    },
+    {
+      "platform": "spotify",
+      "id": 3,
+      "title": "No Shape",
+      "artist": "Perfume Genius",
+      "artistLink": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn",
+      "upc": "744861111351",
+      "releaseDate": 1493942400,
+      "nbTracks": 13,
+      "albumLink": "https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4",
+      "picture": "https://i.scdn.co/image/674707b2363da5fa50367c49521c681f4f3ba29e"
+    },
+    {
+      "platform": "spotify",
+      "id": 4,
+      "title": "Sweet Lies (Featuring Sam Gray)",
+      "artist": "SOLANO, Sam Gray",
+      "artistLink": "https://open.spotify.com/artist/4JprKwueQv8ws3n7N8BLVC",
+      "upc": "00602557936162",
+      "releaseDate": 1502409600,
+      "nbTracks": 1,
+      "albumLink": "https://open.spotify.com/album/2h7zE60RaZaoIcMYxZQdq8",
+      "picture": "https://i.scdn.co/image/679ffc49924b2ccb69eb5b61749089a5c2de359e"
+    },
+    {
+      "platform": "spotify",
+      "id": 5,
+      "title": "Colter Wall",
+      "artist": "Colter Wall",
+      "artistLink": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx",
+      "upc": "886446389035",
+      "releaseDate": 1494547200,
+      "nbTracks": 11,
+      "albumLink": "https://open.spotify.com/album/63o3vkvtW2Cn8QMiuBN1vN",
+      "picture": "https://i.scdn.co/image/455d7998818db0637fdf36725018d3a0ab759005"
+    },
+    {
+      "platform": "spotify",
+      "id": 6,
+      "title": "True to Self",
+      "artist": "Bryson Tiller",
+      "artistLink": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs",
+      "upc": "886446346694",
+      "releaseDate": 1495756800,
+      "nbTracks": 19,
+      "albumLink": "https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo",
+      "picture": "https://i.scdn.co/image/4bf975a109123f0fe64171cd8cef8bd700628c64"
+    },
+    {
+      "platform": "spotify",
+      "id": 7,
+      "title": "Crying in the Club",
+      "artist": "Camila Cabello",
+      "artistLink": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF",
+      "upc": "886446504209",
+      "releaseDate": 1495065600,
+      "nbTracks": 1,
+      "albumLink": "https://open.spotify.com/album/7s5gKFHMzzMHyLE2KFXNkR",
+      "picture": "https://i.scdn.co/image/34809314fe6f17668b34f6274da06573c364e3f9"
+    },
+    {
+      "platform": "spotify",
+      "id": 8,
+      "title": "FUTURE",
+      "artist": "Future",
+      "artistLink": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
+      "upc": 886446597102,
+      "releaseDate": 1498780800,
+      "nbTracks": 20,
+      "albumLink": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r",
+      "picture": "https://i.scdn.co/image/5c132e86154f68bdf384cc165b07cb5dcb2ec5a3"
+    },
+    {
+      "platform": "spotify",
+      "id": 9,
+      "title": "Sex Dreams And Denim Jeans",
+      "artist": "Uffie",
+      "artistLink": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj",
+      "upc": "5060107726840",
+      "releaseDate": 1276473600,
+      "nbTracks": 15,
+      "albumLink": "https://open.spotify.com/album/4Zs0g2nVrNloMXMSqTVq0Z",
+      "picture": "https://i.scdn.co/image/a2bd90a6f9a322d44def5c585d2338485171c685"
+    },
+    {
+      "platform": "spotify",
+      "id": 10,
+      "title": "Life Is Eazi, Vol. 1 - Accra To Lagos",
+      "artist": "Mr Eazi",
+      "artistLink": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW",
+      "upc": "5060450062350",
+      "releaseDate": 1486684800,
+      "nbTracks": 14,
+      "albumLink": "https://open.spotify.com/album/6vvcUJ4tlCObKG1PARtRpZ",
+      "picture": "https://i.scdn.co/image/70254358943240d390b0f610cd3274c96daf1fa7"
+    },
+    {
+      "platform": "spotify",
+      "id": 11,
+      "title": "Nan Fon Bwa",
+      "artist": "Melissa Laveaux",
+      "artistLink": "https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO",
+      "upc": "886446817781",
+      "releaseDate": 1509062400,
+      "nbTracks": 1,
+      "albumLink": "https://open.spotify.com/album/0BTfq5Wo8c6IG1XCntwtUn",
+      "picture": "https://i.scdn.co/image/5b502256aa6621d06159b5deda0d8108fa9b79cf"
+    },
+    {
+      "platform": "spotify",
+      "id": 12,
+      "title": "Another Summer of Love",
+      "artist": "GospelbeacH",
+      "artistLink": "https://open.spotify.com/artist/22DqYr3VzrlKqTY54Jo20d",
+      "upc": "095081019225",
+      "releaseDate": 1497571200,
+      "nbTracks": 10,
+      "albumLink": "https://open.spotify.com/album/0FzgxDZugY7M4jUMw3n4J3",
+      "picture": "https://i.scdn.co/image/67003c2873cbcf284a149f4a56f84deff5edbf45"
+    },
+    {
+      "platform": "spotify",
+      "id": 13,
+      "title": "Big Part Of A Big Sun - EP",
+      "artist": "DeLaurentis",
+      "artistLink": "https://open.spotify.com/artist/1Km7DPrZEzlSllBzzkCSN8",
+      "upc": "3700750929626",
+      "releaseDate": 1523577600,
+      "nbTracks": 5,
+      "albumLink": "https://open.spotify.com/album/0RWJirLztg9JcLxYzMWLhk",
+      "picture": "https://i.scdn.co/image/12bfe875681d46eaf1a9c7eabd0e5c8e59830373"
+    },
+    {
+      "platform": "spotify",
+      "id": 14,
+      "title": "Another Side",
+      "artist": "Fingers Inc.",
+      "artistLink": "https://open.spotify.com/artist/7DbXdVqrretuCKPkTeX8Kk",
+      "upc": "8718723088664",
+      "releaseDate": 596884349,
+      "nbTracks": 12,
+      "albumLink": "https://open.spotify.com/album/0h1OjjFTmWLJaRGLhOuNf7",
+      "picture": "https://i.scdn.co/image/f34440630b4119d496e61175d61576c68d516d16"
+    },
+    {
+      "platform": "spotify",
+      "id": 15,
+      "title": "French Kiwi Juice",
+      "artist": "FKJ",
+      "artistLink": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z",
+      "upc": "3614973508257",
+      "releaseDate": 1488499200,
+      "nbTracks": 12,
+      "albumLink": "https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi",
+      "picture": "https://i.scdn.co/image/dc45b1bfc7e607d48b8f64098b56b0f86d20fd9f"
+    },
+    {
+      "platform": "spotify",
+      "id": 16,
+      "title": "Mountains of Gold (feat. Sampha, Ibeyi, Wiki and Kamasi Washington)",
+      "artist": "Everything Is Recorded",
+      "artistLink": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X",
+      "upc": "191404084854",
+      "releaseDate": 1504828800,
+      "nbTracks": 1,
+      "albumLink": "https://open.spotify.com/album/0q9x7SAhIQCwcH190avpQa",
+      "picture": "https://i.scdn.co/image/a51eb85a94f210838fa5b6ee5ba8fd01ec42813a"
+    },
+    {
+      "platform": "spotify",
+      "id": 17,
+      "title": "Droptopwop",
+      "artist": "Gucci Mane",
+      "artistLink": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo",
+      "upc": "075679893833",
+      "releaseDate": 1495756800,
+      "nbTracks": 10,
+      "albumLink": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn",
+      "picture": "https://i.scdn.co/image/c09846503e19a8150480c988ce16ca9b94481f6b"
+    },
+    {
+      "platform": "spotify",
+      "id": 18,
+      "title": "Revival",
+      "artist": "Eminem",
+      "artistLink": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR",
+      "upc": "00602567311874",
+      "releaseDate": 1513296000,
+      "nbTracks": 19,
+      "albumLink": "https://open.spotify.com/album/15YmkgHUd5PAgvl1XI9SL5",
+      "picture": "https://i.scdn.co/image/5ca965e910fe7e6350371e266e602a87824c70af"
+    },
+    {
+      "platform": "spotify",
+      "id": 19,
+      "title": "Evergreen",
+      "artist": "YEBBA",
+      "artistLink": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F",
+      "upc": "5060450064231",
+      "releaseDate": 1509062400,
+      "nbTracks": 1,
+      "albumLink": "https://open.spotify.com/album/1OIV7ft41zjqFxMOD7I5Bw",
+      "picture": "https://i.scdn.co/image/f09b3eff9c27e557ed86173c99853a07fee41563"
+    },
+    {
+      "platform": "spotify",
+      "id": 20,
+      "title": "Murder Dull Mind",
+      "artist": "Amen Dunes",
+      "artistLink": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM",
+      "upc": "847108051196",
+      "releaseDate": 1280188800,
+      "nbTracks": 7,
+      "albumLink": "https://open.spotify.com/album/1PifbeXBB5GIvXcbetck1e",
+      "picture": "https://i.scdn.co/image/10e4965c68e4db9d443d98016b1edc81453ddb8e"
+    },
+    {
+      "platform": "spotify",
+      "id": 21,
+      "title": "The Beautiful & Damned",
+      "artist": "G-Eazy",
+      "artistLink": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z",
+      "upc": "886446765853",
+      "releaseDate": 1513296000,
+      "nbTracks": 20,
+      "albumLink": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b",
+      "picture": "https://i.scdn.co/image/ab3dd277340fd31e031610d082f24c39d696bc54"
+    },
+    {
+      "platform": "spotify",
+      "id": 22,
+      "title": "The Infamous",
+      "artist": "Mobb Deep",
+      "artistLink": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap",
+      "upc": "078636648026",
+      "releaseDate": 798768000,
+      "nbTracks": 16,
+      "albumLink": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs",
+      "picture": "https://i.scdn.co/image/a1f081d66ac041a2b77be70db2f0a0e3577fff64"
+    },
+    {
+      "platform": "spotify",
+      "id": 23,
+      "title": "Stubborn Persistent Illusions",
+      "artist": "Do Make Say Think",
+      "artistLink": "https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc",
+      "upc": "666561012069",
+      "releaseDate": 1495152000,
+      "nbTracks": 9,
+      "albumLink": "https://open.spotify.com/album/1wrLF6seLRorRM7Khq6RJX",
+      "picture": "https://i.scdn.co/image/16fcf332b1de30688f4f115a764f94c6e7c2f631"
+    },
+    {
+      "platform": "spotify",
+      "id": 24,
+      "title": "The Optimist",
+      "artist": "Anathema",
+      "artistLink": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX",
+      "upc": "802644849263",
+      "releaseDate": 1496966400,
+      "nbTracks": 11,
+      "albumLink": "https://open.spotify.com/album/2MXZ5iBdwsSzzlZszRZoTY",
+      "picture": "https://i.scdn.co/image/c17fdd6a5c84266d147bfaa4b26c111d1605c075"
+    },
+    {
+      "platform": "spotify",
+      "id": 25,
+      "title": "Lilies",
+      "artist": "Melanie De Biasio",
+      "artistLink": "https://open.spotify.com/artist/3pGgFAbmQ22e2LWjOtv5jH",
+      "upc": "5414939963827",
+      "releaseDate": 1507248000,
+      "nbTracks": 9,
+      "albumLink": "https://open.spotify.com/album/2VwI5gKEQOGZVnHdoyQPI1",
+      "picture": "https://i.scdn.co/image/400dc2545d3b6563a1e0a21033a2c8a09ee15fce"
+    },
+    {
+      "platform": "spotify",
+      "id": 26,
+      "title": "HEAVN",
+      "artist": "Jamila Woods",
+      "artistLink": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B",
+      "upc": "656605231266",
+      "releaseDate": 1502755200,
+      "nbTracks": 20,
+      "albumLink": "https://open.spotify.com/album/2ha1TUv0o6VnQddOci7GIb",
+      "picture": "https://i.scdn.co/image/d80dfba856ae38552839c2cfee45e8be6d70ccd2"
+    },
+    {
+      "platform": "spotify",
+      "id": 27,
+      "title": "First Wave EP",
+      "artist": "Ycee",
+      "artistLink": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj",
+      "upc": "886446415185",
+      "releaseDate": 1491523200,
+      "nbTracks": 8,
+      "albumLink": "https://open.spotify.com/album/2rkw6rJeQm30JWLc79qCJk",
+      "picture": "https://i.scdn.co/image/033f7971b4635a12b5fa723cf02c973d15a09ae1"
+    },
+    {
+      "platform": "spotify",
+      "id": 28,
+      "title": "Welcome To The Club",
+      "artist": "New Hope Club",
+      "artistLink": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez",
+      "upc": "00602557581133",
+      "releaseDate": 1493942400,
+      "nbTracks": 4,
+      "albumLink": "https://open.spotify.com/album/2s4CZMy4HVnOv9LIw9L2z5",
+      "picture": "https://i.scdn.co/image/f4dbee50994a96392fafc78281f792c3c0893a4e"
+    },
+    {
+      "platform": "spotify",
+      "id": 29,
+      "title": "H.E.R. Volume 2",
+      "artist": "H.E.R.",
+      "artistLink": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os",
+      "upc": "886446553108",
+      "releaseDate": 1497571200,
+      "nbTracks": 8,
+      "albumLink": "https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX",
+      "picture": "https://i.scdn.co/image/68397834bd1c06dc7f5494128d32d4f97192dced"
+    },
+    {
+      "platform": "spotify",
+      "id": 30,
+      "title": "1989 (Deluxe)",
+      "artist": "Taylor Swift",
+      "artistLink": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+      "upc": "00602547066893",
+      "releaseDate": 1414368000,
+      "nbTracks": 19,
+      "albumLink": "https://open.spotify.com/album/3GT1SFfrltwpfWM2FB7zV4",
+      "picture": "https://i.scdn.co/image/8895164ef9e5f28f23a031ddaf4b974b95b742f3"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "trackName": "Track 1"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "trackName": "Track 2"
+    },
+    {
+      "id": 3,
+      "albumId": 1,
+      "trackName": "Track 3"
+    },
+    {
+      "id": 4,
+      "albumId": 1,
+      "trackName": "Track 4"
+    },
+    {
+      "id": 5,
+      "albumId": 1,
+      "trackName": "Track 5"
+    },
+    {
+      "id": 6,
+      "albumId": 1,
+      "trackName": "Track 6"
+    },
+    {
+      "id": 7,
+      "albumId": 1,
+      "trackName": "Track 7"
+    },
+    {
+      "id": 8,
+      "albumId": 1,
+      "trackName": "Track 8"
+    },
+    {
+      "id": 9,
+      "albumId": 1,
+      "trackName": "Track 9"
+    },
+    {
+      "id": 10,
+      "albumId": 1,
+      "trackName": "Track 10"
+    },
+    {
+      "id": 11,
+      "albumId": 1,
+      "trackName": "Track 11"
+    },
+    {
+      "id": 12,
+      "albumId": 1,
+      "trackName": "Track 12"
+    },
+    {
+      "id": 13,
+      "albumId": 1,
+      "trackName": "Track 13"
+    },
+    {
+      "id": 14,
+      "albumId": 1,
+      "trackName": "Track 14"
+    },
+    {
+      "id": 15,
+      "albumId": 1,
+      "trackName": "Track 15"
+    },
+    {
+      "id": 16,
+      "albumId": 2,
+      "trackName": "Track 1"
+    },
+    {
+      "id": 17,
+      "albumId": 2,
+      "trackName": "Track 2"
+    },
+    {
+      "id": 18,
+      "albumId": 2,
+      "trackName": "Track 3"
+    },
+    {
+      "id": 19,
+      "albumId": 2,
+      "trackName": "Track 4"
+    },
+    {
+      "id": 20,
+      "albumId": 2,
+      "trackName": "Track 5"
+    },
+    {
+      "id": 21,
+      "albumId": 2,
+      "trackName": "Track 6"
+    },
+    {
+      "id": 22,
+      "albumId": 2,
+      "trackName": "Track 7"
+    },
+    {
+      "id": 23,
+      "albumId": 2,
+      "trackName": "Track 8"
+    },
+    {
+      "id": 24,
+      "albumId": 2,
+      "trackName": "Track 9"
+    },
+    {
+      "id": 25,
+      "albumId": 2,
+      "trackName": "Track 10"
+    },
+    {
+      "id": 26,
+      "albumId": 2,
+      "trackName": "Track 11"
+    },
+    {
+      "id": 27,
+      "albumId": 2,
+      "trackName": "Track 12"
+    },
+    {
+      "id": 28,
+      "albumId": 2,
+      "trackName": "Track 13"
+    },
+    {
+      "id": 29,
+      "albumId": 2,
+      "trackName": "Track 14"
+    },
+    {
+      "id": 30,
+      "albumId": 2,
+      "trackName": "Track 15"
+    },
+    {
+      "id": 31,
+      "albumId": 3,
+      "trackName": "Track 11"
+    },
+    {
+      "id": 32,
+      "albumId": 3,
+      "trackName": "Track 12"
+    },
+    {
+      "id": 33,
+      "albumId": 3,
+      "trackName": "Track 13"
+    },
+    {
+      "id": 34,
+      "albumId": 3,
+      "trackName": "Track 14"
+    },
+    {
+      "id": 35,
+      "albumId": 3,
+      "trackName": "Track 15"
+    },
+    {
+      "id": 36,
+      "albumId": 4,
+      "trackName": "Track 11"
+    },
+    {
+      "id": 37,
+      "albumId": 4,
+      "trackName": "Track 12"
+    },
+    {
+      "id": 38,
+      "albumId": 4,
+      "trackName": "Track 13"
+    },
+    {
+      "id": 39,
+      "albumId": 4,
+      "trackName": "Track 14"
+    },
+    {
+      "id": 40,
+      "albumId": 5,
+      "trackName": "Track 15"
+    },
+    {
+      "id": 41,
+      "albumId": 5,
+      "trackName": "Track 11"
+    },
+    {
+      "id": 42,
+      "albumId": 5,
+      "trackName": "Track 12"
+    },
+    {
+      "id": 43,
+      "albumId": 5,
+      "trackName": "Track 13"
+    },
+    {
+      "id": 44,
+      "albumId": 5,
+      "trackName": "Track 14"
+    },
+    {
+      "id": 45,
+      "albumId": 5,
+      "trackName": "Track 15"
+    }
+  ]
+}

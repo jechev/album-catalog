@@ -1,0 +1,34 @@
+<table class="table table-dark">
+  <thead>
+    <tr>
+      <th scope="col" (click)="loadAlbums('id')">#</th>
+      <th scope="col" (click)="loadAlbums('title')">Title</th>
+      <th scope="col" (click)="loadAlbums('artist')">Artist</th>
+      <th scope="col" (click)="loadAlbums('releaseDate')">Release Date</th>
+      <th scope="col" (click)="loadAlbums('nbTracks')">Track numbers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let album of albums">
+      <th scope="row">{{ album.id }}</th>
+      <td>{{ album.title }}</td>
+      <td>{{ album.artist }}</td>
+      <td>{{ album.releaseDate | date: 'mediumDate' }}</td>
+      <td>{{ album.nbTracks }}</td>
+    </tr>
+  </tbody>
+</table>
+<div class="d-flex justify-content-center">
+  <pagination
+    [boundaryLinks]="true"
+    [totalItems]="totalAlbums"
+    [itemsPerPage]="5"
+    previousText="&lsaquo;"
+    nextText="&rsaquo;"
+    firstText="&laquo;"
+    lastText="&raquo;"
+    [(ngModel)]="page"
+    (pageChanged)="pageChanged($event)"
+  >
+  </pagination>
+</div>
