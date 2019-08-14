@@ -4,5 +4,6 @@ import { AlbumDetailComponent } from './app/components/albums/album-detail/album
 
 export const appRoutes: Routes = [
   { path: '', component: HomeComponent },
-  { path: 'albums/:id', component: AlbumDetailComponent }
+  { path: 'albums/:id', component: AlbumDetailComponent },
+  { path: '**', redirectTo: '', pathMatch: 'full' }
 ];

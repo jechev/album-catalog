@@ -1,0 +1,12 @@
+<div class="media-body">
+  <strong class="text-success">Nickname: {{ review.nickname }}</strong>
+  <br />
+  <span class="text-muted pull-right">
+    <small class="text-muted"
+      >Posted on {{ review.postDate | date: 'medium' }}</small
+    >
+  </span>
+  <p>
+    {{ review.text }}
+  </p>
+</div>

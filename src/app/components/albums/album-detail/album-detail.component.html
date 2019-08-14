@@ -1,4 +1,32 @@
-<p>
-  album-detail works!
-</p>
-<app-add-review></app-add-review>
+<div class="container">
+  <div class="text-center">
+    <div class="col-lg-12">
+      <h1 class="mt-4">{{ album?.title }}</h1>
+      <p class="lead">
+        by
+        <a href="#">{{ album?.artist }}</a>
+      </p>
+      <hr />
+      <p>
+        Release Date
+        <strong>{{ album?.releaseDate | date: 'mediumDate' }}</strong>
+      </p>
+      <hr />
+      <p>Number of tracks: {{ album?.nbTracks }}</p>
+      <a [href]="album?.albumLink" target="_blank" class="btn btn-success"
+        >Listen in Spotify</a
+      >
+      <hr />
+      <app-add-review
+        (sendNewReview)="receiveNewReview($event)"
+      ></app-add-review>
+      <div class="d-flex mx-auto justify-content-center">
+        <ul class="media-list">
+          <li *ngFor="let review of album?.reviews" class="media">
+            <app-review-detail [review]="review"></app-review-detail>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

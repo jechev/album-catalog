@@ -12,4 +12,8 @@ export class AlbumService {
       this.baseUrl + '?_page=' + page + '&_limit=5&_sort=' + sort
     );
   }
+
+  public getAlbumDetailsWithReviews(id) {
+    return axios.get(this.baseUrl + '/' + id + '?_embed=reviews');
+  }
 }
